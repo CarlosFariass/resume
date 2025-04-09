@@ -8,7 +8,7 @@ export default function Languages() {
       <section className="mb-8">
         <div className="flex justify-between border-b border-[#4A5568] pb-2.5 mb-4 uppercase">
             <span className="font-bold">LANGUAGES </span>
-            <span>06</span>
+            <span>07</span>
         </div>
         <ul className="space-y-2">
           {languages.map((language, index) => (

@@ -13,7 +13,7 @@ export default function Sidebar() {
             bg-transparent 
             border-b border-[#4A5568]
             hover:border-white 
-            pb-1
+            pb-1 pt-2
             transition-colors
             cursor-pointer
             focus:outline-none
