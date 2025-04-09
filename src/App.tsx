@@ -5,7 +5,7 @@ import Experience from './components/Experience'
 import Contacts from './components/Contacts'
 import Skills from './components/Skills'
 import Languages from './components/Languages'
-import Tools from './components/Education'
+import Education from './components/Education'
 import Socials from './components/Socials'
 import BackgroundImage from './assets/textures.jpg'
 import Sidebar from './components/Sidebar'
@@ -59,9 +59,9 @@ function App() {
             <Header />
             <About className="block md:hidden" /> 
             <Contacts />
+            <Education />
             <Skills />
             <Languages />
-            <Tools />
           </div>
 
           <div className="md:w-2/3 order-2 md:order-none">
