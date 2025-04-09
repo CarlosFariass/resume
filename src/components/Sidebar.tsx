@@ -3,7 +3,7 @@ export default function Sidebar() {
       <div className="flex justify-end">
         <a
           href="/resume-carlos-farias.pdf" 
-          download="Carlos-Farias-Curriculo.pdf" 
+          download="carlos-farias-resume.pdf" 
           className="
             mr-8 mt-2 
             text-white 
@@ -19,7 +19,7 @@ export default function Sidebar() {
             focus:outline-none
           "
         >
-          Download CV
+          Download my CV
         </a>
       </div>
     )
