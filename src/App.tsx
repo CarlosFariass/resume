@@ -9,6 +9,7 @@ import Education from './components/Education'
 import Socials from './components/Socials'
 import BackgroundImage from './assets/textures.jpg'
 import Sidebar from './components/Sidebar'
+import Hire from './components/Hire'
 
 function App() {
   const [isLoading, setIsLoading] = useState(true)
@@ -70,8 +71,9 @@ function App() {
             <Socials />
           </div>
         </div>
-
+        <Hire />
       </div>
+
     </>
   )
 }
