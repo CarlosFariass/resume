@@ -8,7 +8,7 @@ import Languages from './components/Languages'
 import Education from './components/Education'
 import Socials from './components/Socials'
 import BackgroundImage from './assets/textures.jpg'
-import Sidebar from './components/Sidebar'
+import Download from './components/Download'
 import Hire from './components/Hire'
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
   return (
     <>
       <div>
-        <Sidebar />
+        <Download />
       </div>
       <div className="min-h-screen text-gray-200 p-6 relative">
         <div
