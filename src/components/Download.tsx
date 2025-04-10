@@ -22,7 +22,7 @@ export default function Download() {
         href={currentCv.path} 
         download={currentCv.filename} 
         className="
-          mr-8 mt-2 
+          mt-2 
           text-white 
           text-xs
           tracking-wide

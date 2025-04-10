@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 export default function Hire() {
   const { t } = useTranslation()
     return (
-      <div className="flex justify-end p-4">
+      <div className="flex justify-end p-4 pr-0">
         <a
           href="https://wa.me/5511949260657"
           target="_blank"
