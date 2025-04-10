@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 
-export default function Sidebar() {
+export default function Download() {
   const { t, i18n } = useTranslation()
   
   const cvFiles = {
