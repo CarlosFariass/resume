@@ -1,4 +1,8 @@
+import { useTranslation } from 'react-i18next'
+
 export default function Skills() {
+  const { t } = useTranslation()
+
   const skills = [
     'HTML5',
     'CSS3',
@@ -31,7 +35,7 @@ export default function Skills() {
   return (
     <section className="mb-8 pb-6 pt-5">
       <div className="flex justify-between border-b border-[#4A5568] pb-2.5 mb-4 uppercase">
-          <span className="font-bold">Skills </span>
+        <span className="font-bold">{t('skills')}</span>
           <span>06</span>
       </div>        
       <ul className="space-y-2 max-h-[150px] overflow-y-auto" 

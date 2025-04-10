@@ -1,4 +1,7 @@
+import { useTranslation } from 'react-i18next'
+
 export default function Hire() {
+  const { t } = useTranslation()
     return (
       <div className="flex justify-end p-4">
         <a
@@ -19,7 +22,7 @@ export default function Hire() {
           "
         >
           <span className="w-3 h-3 bg-green-500 rounded-full"></span>
-          Hire me
+          {t('hireMeBtn')}
         </a>
       </div>
     );

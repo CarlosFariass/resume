@@ -10,6 +10,7 @@ import Socials from './components/Socials'
 import BackgroundImage from './assets/textures.jpg'
 import Download from './components/Download'
 import Hire from './components/Hire'
+import LanguageSwitcher from './components/LanguageSwitcher'
 
 function App() {
   const [isLoading, setIsLoading] = useState(true)
@@ -39,7 +40,8 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="flex justify-end items-center gap-4 px-6 py-4">
+        <LanguageSwitcher />
         <Download />
       </div>
       <div className="min-h-screen text-gray-200 p-6 relative">

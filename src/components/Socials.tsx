@@ -11,7 +11,7 @@ export default function Socials() {
         <a 
           href="https://www.linkedin.com/in/carlos-farias-86b72a121/" 
           target="_blank" 
-          className="border-b border-[#4A5568] hover:border-white pb-1 transition-colors"
+          className=" border-b border-[#4A5568] hover:border-white pb-2 transition-colors"
           aria-label="LinkedIn"
         >
           <Linkedin className="w-5 h-5"/>
@@ -19,7 +19,7 @@ export default function Socials() {
         <a 
           href="https://github.com/CarlosFariass" 
           target="_blank" 
-          className="border-b border-[#4A5568] hover:border-white pb-1 transition-colors"
+          className=" border-b border-[#4A5568] hover:border-white pb-2 transition-colors"
           aria-label="GitHub"
         >
           <Github className="w-5 h-5" />
@@ -27,7 +27,7 @@ export default function Socials() {
         <a 
           href="https://www.instagram.com/carloshf93/" 
           target="_blank" 
-          className="border-b border-[#4A5568] hover:border-white pb-1 transition-colors"
+          className=" border-b border-[#4A5568] hover:border-white pb-2 transition-colors"
           aria-label="Instagram"
         >
           <Instagram className="w-5 h-5" />
