@@ -36,7 +36,7 @@ export default function LanguageSwitcher() {
           className="text-xl text-white text-xs pb-1 border-b border-[#4A5568] hover:border-white transition-colors focus:outline-none"
           disabled={isLoading}
         >
-           PT-BR
+           PT
         </button>
       </div>
     </>

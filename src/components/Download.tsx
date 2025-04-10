@@ -4,14 +4,14 @@ export default function Sidebar() {
   const { t, i18n } = useTranslation()
   
   const cvFiles = {
+    pt: {
+      path: "/resume-carlos-farias-pt.pdf",
+      filename: "carlos-farias-resume-pt.pdf"
+    },
     en: {
       path: "/resume-carlos-farias-en.pdf",
       filename: "carlos-farias-resume-en.pdf"
     },
-    pt: {
-      path: "/resume-carlos-farias-pt.pdf",
-      filename: "carlos-farias-resume-pt.pdf"
-    }
   }
 
   const currentCv = cvFiles[i18n.language as keyof typeof cvFiles] || cvFiles.en
