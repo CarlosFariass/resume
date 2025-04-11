@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { useTranslation } from 'react-i18next'
 import Header from './components/Header'
 import About from './components/About'
 import Experience from './components/Experience'
@@ -13,6 +14,7 @@ import Hire from './components/Hire'
 import LanguageSwitcher from './components/LanguageSwitcher'
 
 function App() {
+  const { t } = useTranslation()
   const [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
@@ -32,7 +34,7 @@ function App() {
       <div className="fixed inset-0 flex items-center justify-center bg-[#1A1A1A] z-50">
         <div className="animate-pulse flex flex-col items-center">
           <div className="h-12 w-12 border-4 border-[#4A5568] border-t-white rounded-full animate-spin mb-4"></div>
-          <p className="text-white uppercase tracking-wider text-xs">Loading...</p>
+          <p className="text-white uppercase tracking-wider text-xs">{t('loading')}</p>
         </div>
       </div>
     )
