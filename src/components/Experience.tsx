@@ -6,32 +6,32 @@ export default function Experience() {
   const experiences = [
     {
       period: t('experiencePeriod1'),
-      position: t('experienceTitle1').split('–')[1].trim(),
+      position: t('experienceTitle1'),
       description: t('experienceDescription1')
     },
     {
       period: t('experiencePeriod2'),
-      position: t('experienceTitle2').split('–')[1].trim(),
+      position: t('experienceTitle2'),
       description: t('experienceDescription2')
     },
     {
       period: t('experiencePeriod3'),
-      position: t('experienceTitle3').split('–')[1].trim(),
+      position: t('experienceTitle3'),
       description: t('experienceDescription3')
     },
     {
       period: t('experiencePeriod4'),
-      position: t('experienceTitle4').split('–')[1].trim(),
+      position: t('experienceTitle4'),
       description: t('experienceDescription4')
     },
     {
       period: t('experiencePeriod5'),
-      position: t('experienceTitle5').split('–')[1].trim(),
+      position: t('experienceTitle5'),
       description: t('experienceDescription5')
     },
     {
       period: t('experiencePeriod6'),
-      position: t('experienceTitle6').split('–')[1].trim(),
+      position: t('experienceTitle6'),
       description: t('experienceDescription6')
     }
   ]

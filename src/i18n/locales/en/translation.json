@@ -14,7 +14,7 @@
     "loading": "Loading...",
 
     "aboutDescriptionTitle": "🇧🇷 | Software Engineer | React Specialist | UX/UI Enthusiast",
-    "aboutDescription": "I specialize in developing scalable, user-friendly applications with React.js, React Native, Next.js, and modern front-end technologies. Experienced in leading multidisciplinary teams, delivering technical solutions, and collaborating with stakeholders to achieve project goals. Passionate about create seamless user experiences.",
+    "aboutDescription": "I specialize in developing scalable, user-friendly applications with React.js, React Native, Next.js, and modern front-end technologies. Experienced in leading multidisciplinary teams, delivering technical solutions, and collaborating with stakeholders to achieve project goals.",
 
     "email": "Email: carlosfarias993@gmail.com",
     "phone": "Phone: +55 11 94926-0657",
@@ -29,12 +29,12 @@
     "english": "English",
 
     "experiencePeriod1": "12/2023 - 10/2024",
-    "experienceTitle1": "Amaris Consultant – Team Leader | Front-End Developer",
+    "experienceTitle1": "Amaris Consultant | Team Leader | Front-End Developer",
     "experienceDescription1": "Leadership of a multidisciplinary team, acting as a bridge between technical and commercial teams. Development of technical proposals by analyzing client needs in meetings and briefings. Presentation of proposals to stakeholders, ensuring alignment with project goals.",
 
 
     "experiencePeriod2": "03/2023 - 10/2024",
-    "experienceTitle2": "Amaris Consultant – React.JS and React Native Developer",
+    "experienceTitle2": "Amaris Consultant | React.JS and React Native Developer",
     "experienceDescription2": "Consultant on a specific project, I work as a front-end web and mobile developer. Among various aspects, the project also involves the implementation of the product's first payment method using QRCode. The web product is a platform built with React.Js and Vite.JS, utilizing a custom layout standardization library. The platform's goal is to assist users with sales demonstrations and negotiations. It also alows the generation of a unique QRCode for each merchant, enabling payments through the app.",
    
     "experiencePeriod3": "08/21 - 12/2022",
@@ -42,15 +42,15 @@
     "experienceDescription3": "The Shopify platform is used for the development of client applications and e-commerce. I work on projects from their initial implementation as well as on projects already in production. Shopify uses the Liquid programming language, allowing for some script injections in JS.",
    
     "experiencePeriod4": "03/2021 – 08/2021",
-    "experienceTitle4": "Infracommerce – Front-End Developer | React.JS",
+    "experienceTitle4": "Infracommerce | Front-End Developer | React.JS",
     "experienceDescription4": "As a Front-End Developer, I worked in two squads, Chatbot and Monitoring. The technologies used in the internal control applications of both squads included React, with Material UI, Jest, React Testing, Context and Hooks. One of the applications used a REST API, while the other used GraphQL for data querying.",
 
     "experiencePeriod5": "03/2020 – 01/2021",
-    "experienceTitle5": "Opah IT – React Native Developer",
+    "experienceTitle5": "Opah IT | React Native Developer",
     "experienceDescription5": "Assigned to a client whose core business was a card points exchange service, I worked on new features, improvements, and other tasks. The app was developed using React Native, with Redux for state management, along with Styled Components, Atomic Design, Storybook, and other tools.",
 
     "experiencePeriod6": "08/2019 – 03/2020",
-    "experienceTitle6": "Ally:Code – Front-End Jr",
+    "experienceTitle6": "Ally:Code | Front-End Jr",
     "experienceDescription6": "Creation of websites requested on a project basis, most of which had predefined UX. The websites, e-commerce platforms, and projects in general were built using Vue.JS, React.JS, React Native, PHP, and Python. Relational database management was done with MySQL, while non-relational databases were handled using MongoDB."
 
 

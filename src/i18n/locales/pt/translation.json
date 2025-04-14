@@ -14,7 +14,7 @@
     "loading": "Carregando...",
 
     "aboutDescriptionTitle": "🇧🇷 | Engenheiro de Software | Especialista em React | Entusiasta de UX/UI",
-    "aboutDescription": "Sou especialista em desenvolver aplicações escaláveis e de fácil usabilidade com React.js, React Native, Next.js e tecnologias modernas de front-end. Tenho experiência em liderar equipes multidisciplinares, entregar soluções técnicas e colaborar com stakeholders para alcançar os objetivos do projeto. Apaixonado por criar experiências de usuário perfeitas.",
+    "aboutDescription": "Sou especialista em desenvolver aplicações escaláveis e de fácil usabilidade com React.js, React Native, Next.js e tecnologias modernas de front-end. Tenho experiência em liderar equipes multidisciplinares, entregar soluções técnicas e colaborar com stakeholders para alcançar os objetivos do projeto.",
     
     "email": "Email: carlosfarias993@gmail.com",
     "phone": "Telefone: +55 11 94926-0657",
@@ -28,27 +28,27 @@
     "english": "Inglês",
 
     "experiencePeriod1": "12/2023 - 10/2024",
-    "experienceTitle1": "Amaris Consultant – Team Leader | Desenvolvedor Front-End",
+    "experienceTitle1": "Amaris Consultant | Team Leader | Desenvolvedor Front-End",
     "experienceDescription1": "Liderança de equipe multidisciplinar, atuando como ponte entre times técnicos e comerciais. Desenvolvimento de propostas técnicas através da análise de necessidades dos clientes em reuniões e briefings. Apresentação de propostas para stakeholders, garantindo alinhamento com os objetivos do projeto.",
 
     "experiencePeriod2": "03/2023 - 10/2024",
-    "experienceTitle2": "Amaris Consultant – Desenvolvedor React.JS e React Native",
+    "experienceTitle2": "Amaris Consultant | Desenvolvedor React.JS e React Native",
     "experienceDescription2": "Como consultor em um projeto específico, atuei como desenvolvedor front-end web e mobile. Entre diversos aspectos, o projeto incluiu a implementação do primeiro método de pagamento do produto via QRCode. O produto web é uma plataforma construída com React.Js e Vite.JS, utilizando uma biblioteca personalizada de padronização de layout. O objetivo da plataforma é auxiliar usuários em demonstrações de vendas e negociações, além de permitir a geração de um QRCode único para cada comerciante, possibilitando pagamentos através do aplicativo.",
 
     "experiencePeriod3": "08/2021 - 12/2022",
-    "experienceTitle3": "Samurai Experts | Wake – Desenvolvedor Front-End",
+    "experienceTitle3": "Samurai Experts | Wake | Desenvolvedor Front-End",
     "experienceDescription3": "Utilização da plataforma Shopify para desenvolvimento de aplicações e e-commerces para clientes. Atuei tanto na implementação inicial de projetos quanto em projetos já em produção. O Shopify utiliza a linguagem Liquid, permitindo injeções de scripts em JS.",
 
     "experiencePeriod4": "03/2021 – 08/2021",
-    "experienceTitle4": "Infracommerce – Desenvolvedor Front-End | React.JS",
+    "experienceTitle4": "Infracommerce | Desenvolvedor Front-End | React.JS",
     "experienceDescription4": "Como Desenvolvedor Front-End, trabalhei em dois squads: Chatbot e Monitoramento. As tecnologias utilizadas nas aplicações de controle interno de ambos os squads incluíam React com Material UI, Jest, React Testing, Context e Hooks. Uma das aplicações utilizava API REST, enquanto a outra usava GraphQL para consulta de dados.",
 
     "experiencePeriod5": "03/2020 – 01/2021",
-    "experienceTitle5": "Opah IT – Desenvolvedor React Native",
+    "experienceTitle5": "Opah IT | Desenvolvedor React Native",
     "experienceDescription5": "Alocado em um cliente cujo core business era um serviço de troca de pontos de cartões, trabalhei em novas funcionalidades, melhorias e outras demandas. O aplicativo foi desenvolvido em React Native com Redux para gerenciamento de estado, além de Styled Components, Atomic Design, Storybook e outras ferramentas.",
 
     "experiencePeriod6": "08/2019 – 03/2020",
-    "experienceTitle6": "Ally:Code – Front-End Jr",
+    "experienceTitle6": "Ally:Code | Front-End Jr",
     "experienceDescription6": "Criação de websites solicitados por projeto, a maioria com UX pré-definido. Os websites, e-commerces e projetos em geral foram construídos com Vue.JS, React.JS, React Native, PHP e Python. O gerenciamento de bancos relacionais era feito com MySQL, enquanto os não-relacionais utilizavam MongoDB."
 
   }
