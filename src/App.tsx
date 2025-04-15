@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Analytics } from "@vercel/analytics/react"
 import Header from './components/Header'
 import About from './components/About'
 import Experience from './components/Experience'
@@ -77,7 +78,7 @@ function App() {
         </div>
         <Hire />
       </div>
-
+      <Analytics />
     </>
   )
 }
