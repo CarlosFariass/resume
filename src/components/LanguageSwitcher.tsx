@@ -18,7 +18,7 @@ export default function LanguageSwitcher() {
         <div className="fixed inset-0 flex items-center justify-center bg-[#1A1A1A] z-50">
           <div className="animate-pulse flex flex-col items-center">
             <div className="h-12 w-12 border-4 border-[#4A5568] border-t-white rounded-full animate-spin mb-4"></div>
-            <p className="text-white uppercase tracking-wider text-xs">{t('loading')}</p>
+            <p className="text-white uppercase tracking-wider text-xs" data-testid="loading-text">{t('loading')}</p>
           </div>
         </div>
       )}
